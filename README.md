@@ -1,19 +1,9 @@
-# test-task
+# Тестовое задание (vue3) RLT
 
-## Project setup
-```
-npm install
-```
+## Описание
+Вам необходимо реализовать веб-приложение - автономно работающий инвентарь, т.е. после закрытия браузера предметы и их позиции должны быть сохранены. По нажатию на предмет инвентаря должна выезжать плашка с его описанием и кнопкой удалить (см. комментарии на фигме).
+Дизайн: https://www.figma.com/file/cIoLBtPsGIlZql2tjZk8Md/Test-Task?node-id=0%3A1&t=6cRj8FteCdktZ3CC-1
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+https://user-images.githubusercontent.com/111681330/208377761-8638712f-7427-4b45-a97c-540666df39f6.mp4
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
